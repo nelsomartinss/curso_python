@@ -1,5 +1,6 @@
 # A função print() - usada para exibir algo no terminal 
 # dentro dela passamos argumentos, tudo vai ser exibido na tela 
+# O python é case sensitive então não podemos escrever print de outra forma a não ser assim: print()
 
 print('Nelson', 24) # exibindo a string e o number
 print('Quebrando a linha') # esse outro print quebra a linha, ou seja, é exibindo em outra linha
