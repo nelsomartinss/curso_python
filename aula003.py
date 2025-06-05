@@ -1,7 +1,8 @@
 # Strings
 '''
 Python tem tipagem dinâmica (ele já sabe o tipo de dado passado para ele) forte. 
-Strings são textos que estão dentro de aspas
+Strings (str) são textos que estão dentro de aspas
+Obs: Docstrings também são um tipo de string
 '''
 
 # Aspas simples 
