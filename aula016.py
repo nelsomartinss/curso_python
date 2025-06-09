@@ -14,5 +14,8 @@ else: # se não
 # else = 'se não'
 
 '''
-O if pode existir sozinho, mas o elif e o else não, eles dependem de que um if exista anteriormente. Quando uma condição for verdadeira as condicionais são cessadas. Só podemos ter um if, o resto tem que ser 'elif', e só podemos ter um else
+O if pode existir sozinho, mas o elif e o else não, eles dependem de que um if exista anteriormente. 
+Quando uma condição for verdadeira as condicionais são cessadas. 
+Só podemos ter um if, o resto tem que ser 'elif', e só podemos ter um else
+Se quisermos checar mais de uma condição verdadeiras precisamos iniciar novos blocos if
 '''
