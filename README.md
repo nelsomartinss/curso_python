@@ -77,3 +77,16 @@ O curso abrange desde os conceitos básicos da linguagem até tópicos avançado
   - HTML5 e CSS3 básicos
   - Comandos Unix/Linux
   - Deploy e servidores
+
+## 🧠 Objetivo
+
+O objetivo deste repositório é consolidar os conhecimentos adquiridos durante o curso, praticar a linguagem Python em diferentes cenários e criar uma base sólida para projetos profissionais.
+
+---
+
+## ✍️ Autor
+
+**Nelson Martins**  
+Desenvolvedor em formação | Apaixonado por tecnologia, desenvolvimento pessoal e soluções inteligentes.  
+🔗 [LinkedIn](https://www.linkedin.com/in/nelsomartinss)
+🐍 [GitHub](https://github.com/nelsomartinss)
