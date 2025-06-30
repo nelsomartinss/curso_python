@@ -89,4 +89,3 @@ O objetivo deste repositório é consolidar os conhecimentos adquiridos durante 
 **Nelson Martins**  
 Desenvolvedor em formação | Apaixonado por tecnologia, desenvolvimento pessoal e soluções inteligentes.  
 🔗 [LinkedIn](https://www.linkedin.com/in/nelsomartinss)
-🐍 [GitHub](https://github.com/nelsomartinss)
