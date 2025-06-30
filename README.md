@@ -87,5 +87,5 @@ O objetivo deste repositório é consolidar os conhecimentos adquiridos durante 
 ## ✍️ Autor
 
 **Nelson Martins**  
-Desenvolvedor em formação | Apaixonado por tecnologia, desenvolvimento pessoal e soluções inteligentes.  
+Desenvolvedor em formação | Apaixonado por tecnologia e soluções inteligentes.  
 🔗 [LinkedIn](https://www.linkedin.com/in/nelsomartinss)
